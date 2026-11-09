@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf45a29e-327d-4c89-a498-cfb5cf2cfdd1",
+  "path": "baseline-ui",
+  "path_key": "baseline-ui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "ibelick/ui-skills/baseline-ui",
+    "subpath": "skills\\baseline-ui",
+    "branch": null
+  }
+}
