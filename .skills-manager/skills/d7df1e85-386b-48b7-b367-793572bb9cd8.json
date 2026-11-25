@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d7df1e85-386b-48b7-b367-793572bb9cd8",
+  "path": "replica-brand",
+  "path_key": "replica-brand",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jakeschincariol/replica-skill/replica-brand",
+    "subpath": "replica-brand",
+    "branch": null
+  }
+}
