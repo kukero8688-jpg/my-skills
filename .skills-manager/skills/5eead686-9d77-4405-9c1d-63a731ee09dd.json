@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5eead686-9d77-4405-9c1d-63a731ee09dd",
+  "path": "drawio",
+  "path_key": "drawio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jgraph/drawio-mcp/drawio",
+    "subpath": "plugins\\antigravity\\skills\\drawio",
+    "branch": null
+  }
+}
